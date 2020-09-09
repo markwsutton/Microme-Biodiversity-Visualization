@@ -18,7 +18,7 @@ function init(){
 }
 
 //function when a new option is changed to run the other functions
-function optionChanged(newSample) {
+function userSelect(newSample) {
     buildCharts(newSample);
     buildMetadata(newSample);
 }
