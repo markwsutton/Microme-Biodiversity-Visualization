@@ -10,4 +10,6 @@ The data is stored locally in json format, in samples.json. The user is able to 
 2. A Plotly Bubble Chart showing the Count of Bacteria Cultures Per Sample
 3. A panel that indicates detailed information about each Test Subject ID.
 
+Image of the visualization:
 
+![Image](https://github.com/markwsutton/Microme-Biodiversity-Visualization/blob/master/vizimage/1-Viz.png)
