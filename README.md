@@ -1,4 +1,4 @@
-# biodiversity-visualization
+# Microbe Biodiversity Visualization
 An interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels utilizing plotly.
 
 The data is from Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/.
